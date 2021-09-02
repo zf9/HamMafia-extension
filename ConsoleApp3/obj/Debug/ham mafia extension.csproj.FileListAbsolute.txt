@@ -1,0 +1,7 @@
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ham mafia extension.csproj.AssemblyReference.cache
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ham mafia extension.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\HamMafia.exe.config
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\HamMafia.exe
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\HamMafia.pdb
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\HamMafia.exe
+C:\Users\tyler\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\HamMafia.pdb
