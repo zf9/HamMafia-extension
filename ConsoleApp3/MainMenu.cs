@@ -52,7 +52,7 @@ namespace ConsoleApp3
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Clear();
-                Process.Start("https://hammafia.co/");
+                Process.Start("https://github.com/zf9/HamMafia-extension");
                 Console.WriteLine("\n   Redirecting you to github");
                 Thread.Sleep(1000);
                 MainMenu.Main_Menu();
